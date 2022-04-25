@@ -12,3 +12,4 @@ Loads source signal, filters it and creates clean signal file and noise file.
      * clean_bandstop.wav - output filtered signal without noise 
      * 4cos.wav - extracted noise form original signal
  * dokumentace.pdf - documentation in Czech
+ * zadani.pdf - project assignment in Czech
