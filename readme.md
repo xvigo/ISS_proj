@@ -1,5 +1,5 @@
 # ISS projekt - signal filtering
-Python project using numpy and scipy.
+Python project for filtering noise from speech signal using numpy and scipy.
 
 ## Description 
 Loads source signal, filters it and creates clean signal file and noise file.
